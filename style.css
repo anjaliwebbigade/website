@@ -1656,7 +1656,7 @@ margin-right: 20px;
 }
 
 .connect-section {
-  background: #f5f6fa url('../images/smm.png') no-repeat center;
+  background: #f5f6fa url('images/smm.png') no-repeat center;
   background-size: cover;   /* 🔥 image full dikhegi, stretch nahi hogi */
 }
 
